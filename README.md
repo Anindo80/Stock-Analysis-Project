@@ -7,7 +7,7 @@ This excel project visualizes and analyzes KPI/metrics of S&P 500 companies acro
 - Perform rank wise analysis
 
 ## Download File
-- Stock-Analysis-Project.xlsx
+Stock%20Analysis%20Project.xlsx
 
 ## To use
 - Download the file
