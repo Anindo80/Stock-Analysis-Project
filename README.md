@@ -8,6 +8,8 @@ This excel project visualizes and analyzes KPI/metrics of S&P 500 companies acro
 
 ## Download File
 - https://github.com/Anindo80/Stock-Analysis-Project/blob/e01704239e94fb94ba373d98dc4e99f58773247a/Stock%20Analysis%20Project.xlsx
+- Click the link to go to download page
+- Click "view raw" to download
 
 ## To use
 - Download the file
